@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import  GenerateQuote  from './GenerateQuote';
-import  DisplayQuote  from './DisplayQuote';
+import  GenerateQuote  from './Components/GenerateQuote';
+import  DisplayQuote  from './Components/DisplayQuote';
 
 
 const sampleQuote = {
